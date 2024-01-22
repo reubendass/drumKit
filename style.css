@@ -1,0 +1,65 @@
+body {
+    text-align: center;
+    background-color: goldenrod;
+  }
+  
+  h1 {
+    font-size: 5rem;
+    color: #DBEDF3;
+    font-family: sans-serif;
+  
+  }
+  
+  .w {
+    background-image: url("images/tom.png");
+  }
+  
+  .a {
+    background-image: url("images/snare.png");
+  }
+  
+  .s {
+    background-image: url("images/hat.png");
+  }
+  
+  .d {
+    background-image: url("images/boom.png");
+  }
+  
+  .j {
+    background-image: url("images/clap.png");
+  }
+  
+  .k {
+    background-image: url("images/hat.png");
+  }
+  
+  .l {
+    background-image: url("images/kick.png");
+  }
+  
+  .set {
+    margin: 10% auto;
+  }
+  
+  .pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+  }
+  
+  .drum {
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 5rem;
+    font-family: sans-serif;
+    line-height: 2;
+    font-weight: 900;
+    color: goldenrod;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+  }
